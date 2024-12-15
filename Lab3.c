@@ -1,9 +1,9 @@
 //********************************************************
 // Lab3.c
 // Author: Lorenzo Wyman
-// UCFID: 5464079
+//
 // Date: 9/27/24
-// Class: COP 3223, Professor Parra
+// 
 // Purpose: This program is intended to display and collect user
 //          inputted values with only the use of pointers.
 // Input: from the user
